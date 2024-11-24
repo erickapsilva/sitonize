@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# Sintonize 🎧
 
-A simple Streamlit app template for you to modify!
+Solução desenvolvida para a disciplina de PISI3 do curso de BSI na UFRPE
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
